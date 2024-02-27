@@ -8,11 +8,11 @@ Google Colaboratory Notebook (Ipython Notebook) 形式です．
 
 # 内容
 ## ファイル構成
-- ipynb  
-  Google Colaboratory Notobook 形式のファイル．
-  文中の [MASK] した単語の推定をする．
-- sampledata.xslx
-  サンプルデータの Excel 形式ファイル．
+- predictMaskedPoses.ipynb  
+  Google Colaboratory Notobook 形式のファイル．  
+  文中の [MASK] した単語の推定をする．  
+- sampledata.xslx  
+  サンプルデータの Excel 形式ファイル．  
   書籍で例として挙げているデータが入っている．
 
 # 参考文献
